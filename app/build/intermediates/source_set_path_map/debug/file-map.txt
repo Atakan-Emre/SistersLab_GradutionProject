@@ -44,10 +44,10 @@ com.example.sisterslab_ecommerce.app-lifecycle-process-2.6.2-42 /Users/atakanemr
 com.example.sisterslab_ecommerce.app-lifecycle-viewmodel-ktx-2.6.2-43 /Users/atakanemre/.gradle/caches/transforms-3/f3b8f70dfef5276f41c7527bd3300b53/transformed/lifecycle-viewmodel-ktx-2.6.2/res
 com.example.sisterslab_ecommerce.app-appcompat-resources-1.6.1-44 /Users/atakanemre/.gradle/caches/transforms-3/f4b5a4fd918d6744c8d829ffcf5ee045/transformed/appcompat-resources-1.6.1/res
 com.example.sisterslab_ecommerce.app-lifecycle-viewmodel-savedstate-2.6.2-45 /Users/atakanemre/.gradle/caches/transforms-3/fbb9e6fd48a5f535d13b185176181e9f/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
-com.example.sisterslab_ecommerce.app-pngs-46 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/build/generated/res/pngs/debug
-com.example.sisterslab_ecommerce.app-resValues-47 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/build/generated/res/resValues/debug
-com.example.sisterslab_ecommerce.app-packageDebugResources-48 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.sisterslab_ecommerce.app-packageDebugResources-49 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.sisterslab_ecommerce.app-merged_res-50 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/build/intermediates/merged_res/debug
-com.example.sisterslab_ecommerce.app-debug-51 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/debug/res
-com.example.sisterslab_ecommerce.app-main-52 /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/res
+com.example.sisterslab_ecommerce.app-pngs-46 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/build/generated/res/pngs/debug
+com.example.sisterslab_ecommerce.app-resValues-47 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/build/generated/res/resValues/debug
+com.example.sisterslab_ecommerce.app-packageDebugResources-48 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.sisterslab_ecommerce.app-packageDebugResources-49 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.sisterslab_ecommerce.app-merged_res-50 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/build/intermediates/merged_res/debug
+com.example.sisterslab_ecommerce.app-debug-51 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/debug/res
+com.example.sisterslab_ecommerce.app-main-52 /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/res

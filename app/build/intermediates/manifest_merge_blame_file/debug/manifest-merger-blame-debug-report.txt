@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+8-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="34" />
-9-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+9-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:5-66
-11-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:22-64
+11-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.12.0] /Users/atakanemre/.gradle/caches/transforms-3/04bd5450f5ccdf1d8d9cf4a827315131/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
@@ -26,43 +26,43 @@
 17-->[androidx.core:core:1.12.0] /Users/atakanemre/.gradle/caches/transforms-3/04bd5450f5ccdf1d8d9cf4a827315131/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:6:5-25:19
+19-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:6:5-25:19
 20        android:allowBackup="true"
-20-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:7:9-35
+20-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:7:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.12.0] /Users/atakanemre/.gradle/caches/transforms-3/04bd5450f5ccdf1d8d9cf4a827315131/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:8:9-65
+22-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:8:9-65
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:9:9-54
+25-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:9:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:10:9-43
+26-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:10:9-43
 27        android:label="@string/app_name"
-27-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:11:9-41
+27-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:11:9-41
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:13:9-54
+28-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:13:9-54
 29        android:supportsRtl="true"
-29-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:14:9-35
+29-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:14:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.App.SplashScreen" >
-31-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:12:9-54
+31-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:12:9-54
 32        <activity
-32-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:16:9-24:20
+32-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:16:9-24:20
 33            android:name="com.example.sisterslab_ecommerce.MainActivity"
-33-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-41
+33-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-41
 34            android:exported="true" >
-34-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:18:13-36
+34-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:18:13-36
 35            <intent-filter>
-35-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:19:13-23:29
+35-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:19:13-23:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:17-69
-36-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:25-66
+36-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:17-69
+36-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:17-77
-38-->/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:27-74
+38-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:17-77
+38-->/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:27-74
 39            </intent-filter>
 40        </activity>
 41

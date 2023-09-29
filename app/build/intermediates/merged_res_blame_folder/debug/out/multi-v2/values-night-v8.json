@@ -4,7 +4,7 @@
             "outputFile": "com.example.sisterslab_ecommerce.app-mergeDebugResources-48:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/res/values-night/themes.xml",
+                    "source": "/Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2,8,6",
                         "startColumns": "4,4,4",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/atakanemre/.gradle/caches/transforms-3/152cd222ef49f4a18355cb469004b263/transformed/viewbinding-8.0.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.3] /Users/atakanemre/.gradle/caches/transforms-3/6909bc2ecdf5695fd9ceb8303988841f/transformed/navigation-common-2.7.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.3] /Users/atakanemre/.gradle/caches/transforms-3/bb40d8fdb2e39c58aa715294589a22fc/transformed/navigation-common-ktx-2.7.3/AndroidManifest.xml:2:1-7:12
@@ -68,31 +68,31 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/atakanemre/.gradle/caches/transforms-3/20dd6843e47363d0aabe9e7292709279/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/atakanemre/.gradle/caches/transforms-3/bc71051e5b52cb5ef9cf0424f2564d58/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/atakanemre/.gradle/caches/transforms-3/a3c646ea6b0217a52f8e696b5e71c46e/transformed/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
 	package
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:6:5-25:19
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from [com.google.android.material:material:1.5.0] /Users/atakanemre/.gradle/caches/transforms-3/8da28f146619baa2c409f3fa53fe5432/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] /Users/atakanemre/.gradle/caches/transforms-3/8da28f146619baa2c409f3fa53fe5432/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/atakanemre/.gradle/caches/transforms-3/818f6ae09e20ab4458fb2505d2bb73ed/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -118,43 +118,43 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atakanemre/.gradle/c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/atakanemre/.gradle/caches/transforms-3/04bd5450f5ccdf1d8d9cf4a827315131/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:11:9-41
 	android:fullBackupContent
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:9:9-54
 	android:roundIcon
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:13:9-54
 	tools:targetApi
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:15:9-29
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:15:9-29
 	android:icon
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:12:9-54
 	android:dataExtractionRules
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:8:9-65
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:8:9-65
 activity#com.example.sisterslab_ecommerce.MainActivity
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:16:9-24:20
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:exported
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:18:13-36
 	android:name
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/atakanemre/.gradle/caches/transforms-3/152cd222ef49f4a18355cb469004b263/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.0.2] /Users/atakanemre/.gradle/caches/transforms-3/152cd222ef49f4a18355cb469004b263/transformed/viewbinding-8.0.2/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.3] /Users/atakanemre/.gradle/caches/transforms-3/6909bc2ecdf5695fd9ceb8303988841f/transformed/navigation-common-2.7.3/AndroidManifest.xml:20:5-44
@@ -283,16 +283,16 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/atakanemre/.gradle/ca
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/atakanemre/.gradle/caches/transforms-3/bc71051e5b52cb5ef9cf0424f2564d58/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/atakanemre/.gradle/caches/transforms-3/a3c646ea6b0217a52f8e696b5e71c46e/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/atakanemre/.gradle/caches/transforms-3/a3c646ea6b0217a52f8e696b5e71c46e/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/atakanemre/Documents/Projects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atakanemre/.gradle/caches/transforms-3/676013e7dce6fa58f17930df0c047529/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/atakanemre/.gradle/caches/transforms-3/ed2b09bd80bee8f0a9d30b9b8b3a426d/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20

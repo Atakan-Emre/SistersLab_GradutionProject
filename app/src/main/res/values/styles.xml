@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Description_Name" parent="TextAppearance.AppCompat">
+    <item name="android:textSize">@dimen/text_size_22sp</item>
+    <item name="android:padding">@dimen/padding_8dp</item>
+    <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Description_Style" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_20sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="PrimaryText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_16sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="ProductName" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="SecondaryText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="SearchText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="AccentText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/accent</item>
+    </style>
+    <style name="ErrorText" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+        <item name="android:padding">@dimen/padding_8dp</item>
+        <item name="android:textColor">@color/error</item>
+    </style>
+
+</resources>

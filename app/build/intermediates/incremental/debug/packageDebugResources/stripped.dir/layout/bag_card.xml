@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_8dp"
+    android:padding="@dimen/margin_4dp"
+    android:background="@drawable/card_cr">
+
+    <ImageView
+        android:id="@+id/bagProductImagesview"
+        android:layout_width="@dimen/width_86dp"
+        android:layout_height="@dimen/height_86dp"
+        android:layout_margin="@dimen/margin_4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/bagProductNameTextview"
+        style="@style/PrimaryText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_8dp"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:text="@string/product_name"
+        app:layout_constraintStart_toEndOf="@+id/bagProductImagesview"
+        app:layout_constraintEnd_toStartOf="@+id/deleteIv"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/bagProductPriceTextview"
+        style="@style/SecondaryText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:text="@string/price"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/bagProductImagesview"
+        app:layout_constraintEnd_toStartOf="@+id/deleteIv" />
+
+    <ImageView
+        android:id="@+id/deleteIv"
+        android:layout_width="@dimen/width_36dp"
+        android:layout_height="@dimen/height_36dp"
+        app:srcCompat="@drawable/product_delete"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginEnd="@dimen/margin_8dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

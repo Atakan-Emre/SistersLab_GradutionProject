@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SistersLab_ECommerce</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product">Product</string>
+    <string name="price">%s ₺</string>
+    <string name="product_name">Product Name</string>
+    <string name="home_name">Ana Sayfa</string>
+    <string name="shop_name">Sepet</string>
+    <string name="shop_now">Sepete Ekle</string>
+    <string name="search_name">Arama Kutusu</string>
+
+</resources>

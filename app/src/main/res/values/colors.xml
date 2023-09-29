@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screen_bg">#D5D0DD</color>  <!-- Koyu mor arka plan rengi -->
+    <color name="product_bg">#EAE6FA</color>  <!-- Orta ton mor arka plan rengi -->
+    <color name="text_color">#FFFFFF</color>  <!-- Beyaz metin rengi -->
+    <color name="accent">#BB86FC</color>  <!-- Parlak mor vurgu rengi -->
+    <color name="error">#FFB00020</color>  <!-- Hata rengi -->
+    <color name="button_color">#D0B9F8</color>  <!-- Koyu mavi rengi -->
+</resources>

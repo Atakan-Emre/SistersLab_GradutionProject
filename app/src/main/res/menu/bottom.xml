@@ -5,12 +5,10 @@
         android:id="@+id/homeFragment"
         android:icon="@drawable/baseline_home_24"
         android:title="@string/home_name"
-        android:iconTint="@color/white"
         />
     <item
         android:id="@+id/shopFragment"
         android:icon="@drawable/baseline_shopping_cart_24"
         android:title="@string/shop_name"
-        android:iconTint="@color/white"
         />
 </menu>

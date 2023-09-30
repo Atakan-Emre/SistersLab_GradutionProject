@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".view.detail.DetailFragment">
+    tools:context=".ui.fragment.DetailFragment">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"

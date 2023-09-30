@@ -30,7 +30,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.App.SplashScreen" >
         <activity
-            android:name="com.example.sisterslab_ecommerce.MainActivity"
+            android:name="com.example.sisterslab_ecommerce.ui.activity.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

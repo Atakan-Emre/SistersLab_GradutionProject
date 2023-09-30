@@ -135,12 +135,12 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atakanemre/.gradle/c
 		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:12:9-54
 	android:dataExtractionRules
 		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:8:9-65
-activity#com.example.sisterslab_ecommerce.MainActivity
+activity#com.example.sisterslab_ecommerce.ui.activity.MainActivity
 ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:16:9-24:20
 	android:exported
 		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:18:13-36
 	android:name
-		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:17:13-53
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/atakanemre/StudioProjects/SistersLab_GradutionProject/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN

@@ -5,10 +5,9 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.example.sisterslab_ecommerce.R
-import com.example.sisterslab_ecommerce.data.model.Product
 import com.example.sisterslab_ecommerce.data.model.ProductResponse
 import com.example.sisterslab_ecommerce.databinding.ProductCardBinding
-import com.example.sisterslab_ecommerce.util.downloadFromUrl
+import com.example.sisterslab_ecommerce.util.network.downloadFromUrl
 
 class ProductAdapter(
     private var productList: ArrayList<ProductResponse>,  // productList'ı var olarak değiştirildi ve tipi ArrayList olarak güncellendi

@@ -1,5 +1,5 @@
 // Bu paket Dependency Injection (DI) için gerekli konfigürasyonları ve modülleri içerir.
-package com.example.sisterslab_ecommerce.di
+package com.example.sisterslab_ecommerce.di.module
 
 import com.example.sisterslab_ecommerce.data.api.ProductApi
 import com.example.sisterslab_ecommerce.util.constants.Constants.BASE_URL

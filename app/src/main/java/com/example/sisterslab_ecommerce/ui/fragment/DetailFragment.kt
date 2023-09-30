@@ -11,7 +11,7 @@ import com.example.sisterslab_ecommerce.R
 import com.example.sisterslab_ecommerce.util.base.viewBinding
 import com.example.sisterslab_ecommerce.data.model.ShopToBag
 import com.example.sisterslab_ecommerce.databinding.FragmentDetailBinding
-import com.example.sisterslab_ecommerce.util.downloadFromUrl
+import com.example.sisterslab_ecommerce.util.network.downloadFromUrl
 import com.example.sisterslab_ecommerce.ui.viewmodel.DetailFragmentViewModel
 
 // DetailFragment, kullanıcıya bir ürünün detaylarını gösterir.

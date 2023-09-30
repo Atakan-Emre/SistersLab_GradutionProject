@@ -5,10 +5,9 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.example.sisterslab_ecommerce.R
-import com.example.sisterslab_ecommerce.data.model.Product
 import com.example.sisterslab_ecommerce.data.model.ProductResponse
 import com.example.sisterslab_ecommerce.databinding.BagCardBinding
-import com.example.sisterslab_ecommerce.util.downloadFromUrl
+import com.example.sisterslab_ecommerce.util.network.downloadFromUrl
 
 // Sepetteki Ürünlerin listelendiği Adapter sınıfı
 class ShopProductAdapter(

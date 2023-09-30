@@ -1,4 +1,4 @@
-package com.example.sisterslab_ecommerce.util
+package com.example.sisterslab_ecommerce.util.network
 
 import android.widget.ImageView
 import com.squareup.picasso.Picasso

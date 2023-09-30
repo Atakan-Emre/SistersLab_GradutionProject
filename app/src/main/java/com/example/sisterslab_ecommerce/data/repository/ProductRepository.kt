@@ -4,7 +4,7 @@ import com.example.sisterslab_ecommerce.data.model.DeleteShoppingBag
 import com.example.sisterslab_ecommerce.data.model.Detail
 import com.example.sisterslab_ecommerce.data.model.Product
 import com.example.sisterslab_ecommerce.data.model.ShopToBag
-import com.example.sisterslab_ecommerce.di.RetrofitModule
+import com.example.sisterslab_ecommerce.di.module.RetrofitModule
 import retrofit2.Response
 
 class ProductRepository {

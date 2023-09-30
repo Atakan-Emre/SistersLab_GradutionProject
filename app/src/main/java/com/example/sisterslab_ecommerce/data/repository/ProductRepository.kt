@@ -19,7 +19,6 @@ class ProductRepository {
     suspend fun getProduct(): Response<Product> = retrofitExample.retrofit.getProduct()
 
     // Sepetteki ürünleri almak için kullanılacak metod
-    // Not: Metod ismindeki hata düzeltilmiştir - getCardProduct yerine getCartProduct kullanılmalı
     suspend fun getCardProduct(): Response<Product> = retrofitExample.retrofit.getCartProduct()
 
     // Bir ürünü sepete eklemek için kullanılacak metod
